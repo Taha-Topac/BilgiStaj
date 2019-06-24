@@ -21,3 +21,8 @@ Bu repoda BİLGİ Üniversitesinde yaptığım staj ile ilgili günlükler yer a
 [8. Gün](/Günler/08.md)
 
 [9. Gün](/Günler/09.md)
+
+[10. Gün](/Günler/10.md)
+
+[11. Gün](/Günler/11.md)
+
