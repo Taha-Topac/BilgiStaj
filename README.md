@@ -30,7 +30,7 @@ Bu repoda BİLGİ Üniversitesinde yaptığım staj ile ilgili günlükler yer a
 
 [13.Gün](/Günler/13.md)
 
-[14.Gün](/Günler/14.md
+[14.Gün](/Günler/14.md)
 
 [15.Gün](/Günler/15.md)
 
