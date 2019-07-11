@@ -30,4 +30,18 @@ Bu repoda BİLGİ Üniversitesinde yaptığım staj ile ilgili günlükler yer a
 
 [13.Gün](/Günler/13.md)
 
-[14.Gün](/Günler/14.md)
+[14.Gün](/Günler/14.md
+
+[15.Gün](/Günler/15.md)
+
+[16.Gün](/Günler/16.md)
+
+[17.Gün](/Günler/17.md)
+
+[18.Gün](/Günler/18.md)
+
+[19.Gün](/Günler/19.md)
+
+[20.Gün](/Günler/20.md)
+
+[21.Gün](/Günler/21.md)
